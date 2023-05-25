@@ -14,5 +14,5 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [Coding repo university (An amazing repo that has hundreds of resources to master the coding interview)](https://github.com/jwasham/coding-interview-university)
 
 
-## Problems that I've completed and my solution
+## Problems and their solution
 - [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/TwoSum/Solution.java)
