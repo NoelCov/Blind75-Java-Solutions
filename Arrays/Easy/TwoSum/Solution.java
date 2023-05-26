@@ -1,5 +1,7 @@
 import java.util.*;
 
+// Question link: https://leetcode.com/problems/two-sum/
+
 // This solution uses a hashmap to store the numbers that we've encountered so far.
 // In case we need them in the future.
 
