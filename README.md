@@ -21,7 +21,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 #### Easy
 - [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/TwoSum/Solution.java)
 - [x] [Valid Anagram](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ValidAnagram/Solution.java)
-- [x] Contains Duplicate
+- [x] [Contains Duplicate](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ContainsDuplicate/Solution.java)
 
 #### Medium
 - [ ] Group anagrams
