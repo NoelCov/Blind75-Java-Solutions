@@ -16,4 +16,4 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 ## Problems and their solution
 - [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/TwoSum/Solution.java)
-- [x] [Valid Anagram](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/ValidAnagram/Solution.java)
+- [x] [Valid Anagram](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ValidAnagram/Solution.java)
