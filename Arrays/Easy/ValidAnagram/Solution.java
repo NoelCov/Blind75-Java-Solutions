@@ -2,7 +2,7 @@ import java.util.*;
 
 // Question link: https://leetcode.com/problems/valid-anagram/
 
-// Time Complexity O(n + m) n = s, m = t
+// Time Complexity O(n)
 // Space Complexity O(n) n = s.length
 class Solution {
     // 1 SOLUTION:
