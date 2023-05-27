@@ -15,5 +15,49 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 
 ## Problems and their solution
+
+### Arrays & Hashing
+
+#### Easy
 - [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/TwoSum/Solution.java)
 - [x] [Valid Anagram](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ValidAnagram/Solution.java)
+- [ ] Contains Duplicate
+
+#### Medium
+- [ ] Group anagrams
+- [ ] Top k frequent elements
+- [ ] Product of array except self
+- [ ] Encode and decode strings
+- [ ] Logest consecutive sequence
+
+### Two Pointers
+#### Easy
+- [ ] Valid palindrome
+
+#### Medium
+- [ ] 3Sum
+- [ ] Container with most water
+
+### Skiding Window
+
+#### Easy
+- [ ] Best time to buy and sell stock
+
+#### Medium
+- [ ] Longest substring without repeating characters
+- [ ] Longet repeating character replacement
+
+#### Hard
+- [ ] Minimum window substring
+  
+### Stack
+
+#### Easy
+- [ ] Valid parentheses
+
+
+### Binary Search
+
+#### Medium
+- [ ] Find minimum in rotated sorted array
+- [ ] Search in rotated sorted array
