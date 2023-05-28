@@ -32,7 +32,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 ### Two Pointers
 #### Easy
-- [ ] Valid palindrome
+- [x] [Valid palindrome](https://github.com/NoelCov/blind-75-java-solutions/blob/main/TwoPointers/Easy/ValidPalindrome/Solution.java)
 
 #### Medium
 - [ ] 3Sum
