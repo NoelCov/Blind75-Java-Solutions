@@ -38,7 +38,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [ ] 3Sum
 - [ ] Container with most water
 
-### Skiding Window
+### Sliding Window
 
 #### Easy
 - [ ] Best time to buy and sell stock
