@@ -53,7 +53,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Stack
 
 #### Easy
-- [ ] Valid parentheses
+- [x] [Valid parentheses](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Stack/Easy/ValidParentheses/Solution.java)
 
 
 ### Binary Search
