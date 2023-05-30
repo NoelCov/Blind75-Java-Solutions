@@ -1,7 +1,7 @@
 // Question link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 // Time Complexity O(n)
-// Space Complexity(1)
+// Space Complexity (1)
 class Solution {
     public int maxProfit(int[] prices) {
         int currStock = prices[0];
