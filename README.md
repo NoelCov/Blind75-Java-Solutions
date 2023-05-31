@@ -69,7 +69,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Linked List
 
 #### Easy
-- [ ] Reverse linked list
+- [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/ReverseLinkedList/Solution.java)
 - [ ] Merge two sorted lists
 - [ ] Linked list cycle
 
