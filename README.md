@@ -61,3 +61,33 @@ Here I will put some of the resources I'm using to practice and solve this probl
 #### Medium
 - [ ] Find minimum in rotated sorted array
 - [ ] Search in rotated sorted array
+
+
+### Linked List
+
+#### Easy
+- [ ] Reverse linked list
+- [ ] Merge two sorted lists
+- [ ] Linked list cycle
+
+#### Medium
+- [ ] Reorder list
+- [ ] Remove Nth node from end of list
+
+#### Hard
+- [ ] Merge K sorted lists
+  
+### Trees
+
+#### Easy
+- [ ] Invert binary tree
+- [ ] Maximum depth of binary tree
+- [ ] Same tree
+- [ ] Subtree of another tree
+
+#### Medium
+- [ ] Lowest common ancestor of a binary search tree
+- [ ] Binary tree level order traversal
+- [ ] Validate binary search tree
+- [ ] Kth smallest element in a BST (Binary Search Tree)
+- [ ] Construct binary tree from Preorder and Inorder traversal
