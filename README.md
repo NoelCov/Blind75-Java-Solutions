@@ -15,7 +15,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 
 ## Problems and their solution
-
+---
 ### Arrays & Hashing
 
 #### Easy
@@ -29,6 +29,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [ ] Product of array except self
 - [ ] Encode and decode strings
 - [ ] Logest consecutive sequence
+---
 
 ### Two Pointers
 #### Easy
@@ -37,6 +38,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 #### Medium
 - [ ] 3Sum
 - [ ] Container with most water
+---
 
 ### Sliding Window
 
@@ -49,19 +51,20 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Hard
 - [ ] Minimum window substring
-  
+---
+
 ### Stack
 
 #### Easy
 - [x] [Valid parentheses](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Stack/Easy/ValidParentheses/Solution.java)
-
+---
 
 ### Binary Search
 
 #### Medium
 - [ ] Find minimum in rotated sorted array
 - [ ] Search in rotated sorted array
-
+---
 
 ### Linked List
 
@@ -76,7 +79,8 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Hard
 - [ ] Merge K sorted lists
-  
+---
+
 ### Trees
 
 #### Easy
