@@ -9,6 +9,8 @@
  * }
  */
 
+// Question link: https://leetcode.com/problems/reverse-linked-list/
+
 // Time Complexity O(n)
 // Space Complexity O(1)
 class Solution {
@@ -24,22 +26,5 @@ class Solution {
         }
 
         return slow;
-    }
-
-    class ListNode {
-        private int value;
-        private ListNode next;
-
-        public ListNode() {
-        }
-
-        public ListNode(int val) {
-            this.value = val;
-        }
-
-        public ListNode(int val, ListNode next) {
-            this.value = val;
-            this.next = next;
-        }
     }
 }
