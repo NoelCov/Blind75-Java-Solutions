@@ -71,7 +71,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 #### Easy
 - [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/ReverseLinkedList/Solution.java)
 - [x] [Merge two sorted lists](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/MergeTwoSortedLinkedLists/Solution.java)
-- [ ] Linked list cycle
+- [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/LinkedListCycle/Solution.java)
 
 #### Medium
 - [ ] Reorder list
