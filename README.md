@@ -84,7 +84,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Trees
 
 #### Easy
-- [ ] Invert binary tree
+- [x] [Invert binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/InvertBinaryTree/Solution.java)
 - [ ] Maximum depth of binary tree
 - [ ] Same tree
 - [ ] Subtree of another tree
