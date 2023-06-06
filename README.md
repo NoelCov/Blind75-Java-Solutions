@@ -87,7 +87,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Invert binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/InvertBinaryTree/Solution.java)
 - [x] [Maximum depth of binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/MaximumDepthOfBinaryTree/Solution.java)
 - [x] [Same tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/SameTree/Solution.java)
-- [ ] Subtree of another tree
+- [x] [Subtree of another tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/SubtreeOfAnotherTree/Solution.java)
 
 #### Medium
 - [ ] Lowest common ancestor of a binary search tree
