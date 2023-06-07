@@ -95,3 +95,21 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [ ] Validate binary search tree
 - [ ] Kth smallest element in a BST (Binary Search Tree)
 - [ ] Construct binary tree from Preorder and Inorder traversal
+---
+
+### 1-D Dynamic Programming 
+
+#### Easy
+- [x] Climbing stairs
+---
+
+### Intervals
+
+#### Easy
+- [ ] Meeting rooms
+---
+
+### Bit Manipulation
+
+#### Easy
+- [ ] Counting bits
