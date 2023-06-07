@@ -100,7 +100,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### 1-D Dynamic Programming 
 
 #### Easy
-- [x] Climbing stairs
+- [x] [Climbing stairs](https://github.com/NoelCov/blind-75-java-solutions/blob/main/1-D_DynamicProgramming/ClimbingStairs/Solution.java)
 ---
 
 ### Intervals
