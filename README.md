@@ -106,7 +106,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Intervals
 
 #### Easy
-- [ ] Meeting rooms
+- [x] Meeting rooms(https://github.com/NoelCov/blind-75-java-solutions/blob/main/Intervals/MeetingRooms/Solution.java)
 ---
 
 ### Bit Manipulation
