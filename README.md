@@ -112,4 +112,4 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Bit Manipulation
 
 #### Easy
-- [ ] Counting bits
+- [x] Counting bits
