@@ -112,4 +112,4 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Bit Manipulation
 
 #### Easy
-- [x] Counting bits
+- [x] [Counting bits](https://github.com/NoelCov/blind-75-java-solutions/blob/main/BitManipulation/CountingBits/Solution.java)
