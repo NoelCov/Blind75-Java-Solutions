@@ -24,7 +24,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Contains Duplicate](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ContainsDuplicate/Solution.java)
 
 #### Medium
-- [ ] Group anagrams
+- [x] [Group anagrams](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/GroupAnagrams/Solution.java)
 - [ ] Top k frequent elements
 - [ ] Product of array except self
 - [ ] Encode and decode strings
