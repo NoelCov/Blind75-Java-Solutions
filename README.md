@@ -25,7 +25,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Group anagrams](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/GroupAnagrams/Solution.java)
-- [x] Top k frequent elements
+- [x] [Top k frequent elements](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/TopKFrequentElements/Solution.java)
 - [x] [Product of array except self](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/ProductOfArrayExceptSelf/Solution.java)
 - [ ] Encode and decode strings
 - [ ] Logest consecutive sequence
