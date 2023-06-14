@@ -28,7 +28,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Top k frequent elements](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/TopKFrequentElements/Solution.java)
 - [x] [Product of array except self](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/ProductOfArrayExceptSelf/Solution.java)
 - [x] [Encode and decode strings](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/EncodeAndDecodeStrings/Solution.java)
-- [x] Logest consecutive sequence
+- [x] [Logest consecutive sequence](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Medium/LongestConsecutiveSequence/Solution.java)
 ---
 
 ### Two Pointers
