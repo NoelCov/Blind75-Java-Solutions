@@ -37,7 +37,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [3Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/TwoPointers/Medium/3Sum/Solution.java)
-- [x] Container with most water
+- [x] [Container with most water](https://github.com/NoelCov/blind-75-java-solutions/blob/main/TwoPointers/Medium/ContainerWithMostWater/Solution.java)
 ---
 
 ### Sliding Window
