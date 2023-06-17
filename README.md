@@ -46,7 +46,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Best time to buy and sell stock](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/BestTimeToBuyAndSellStock/Solution.java)
 
 #### Medium
-- [x] Longest substring without repeating characters
+- [x] [Longest substring without repeating characters](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/Medium/LongestSubstringWithoutRepeatingCharacters/Solution.java)
 - [ ] Longet repeating character replacement
 
 #### Hard
