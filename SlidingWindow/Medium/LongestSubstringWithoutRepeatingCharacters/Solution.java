@@ -2,7 +2,7 @@
 
 class Solution {
     // Time Complexity O(n)
-    // Space Complexity o(n)
+    // Space Complexity O(n)
     public int lengthOfLongestSubstring(String s) {
         if (s.isEmpty()) {
             return 0;
