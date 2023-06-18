@@ -47,7 +47,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Longest substring without repeating characters](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/Medium/LongestSubstringWithoutRepeatingCharacters/Solution.java)
-- [ ] Longet repeating character replacement
+- [x] Longest repeating character replacement
 
 #### Hard
 - [ ] Minimum window substring
