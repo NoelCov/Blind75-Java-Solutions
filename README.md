@@ -62,7 +62,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Binary Search
 
 #### Medium
-- [ ] Find minimum in rotated sorted array
+- [x] Find minimum in rotated sorted array
 - [ ] Search in rotated sorted array
 ---
 
