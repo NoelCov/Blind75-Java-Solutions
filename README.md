@@ -63,7 +63,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Find minimum in rotated sorted array](https://github.com/NoelCov/blind-75-java-solutions/blob/main/BinarySearch/Medium/FindMinimumInRotatedSortedArray/Solution.java)
-- [x] Search in rotated sorted array
+- [x] [Search in rotated sorted array](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/BinarySearch/Medium/SearchInRotatedSortedArray/Solution.java)
 ---
 
 ### Linked List
