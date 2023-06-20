@@ -2,10 +2,9 @@ package BinarySearch.Medium.SearchInRotatedSortedArray;
 
 // Question link: https://leetcode.com/problems/search-in-rotated-sorted-array/
 class Solution {
+    // Time Complexity: O(log n)
+    // Space Complexity O(1)
     public int search(int[] nums, int target) {
-        // O(log n) time
-        // O(1) space
-
         // 1) Find pivot
         // 2) Do 1 cut in the middle to know which side to go to.
         // 3) Binary search
