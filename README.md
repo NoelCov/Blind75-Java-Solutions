@@ -74,7 +74,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/LinkedListCycle/Solution.java)
 
 #### Medium
-- [x] Reorder list
+- [x] [Reorder list](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/LinkedLists/Medium/ReorderList/Solution.java)
 - [ ] Remove Nth node from end of list
 
 #### Hard
