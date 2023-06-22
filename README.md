@@ -69,9 +69,9 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Linked List
 
 #### Easy
-- [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/ReverseLinkedList/Solution.java)
-- [x] [Merge two sorted lists](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/MergeTwoSortedLinkedLists/Solution.java)
-- [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/LinkedListCycle/Solution.java)
+- [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/ReverseLinkedList/Solution.java)
+- [x] [Merge two sorted lists](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/MergeTwoSortedLinkedLists/Solution.java)
+- [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/LinkedListCycle/Solution.java)
 
 #### Medium
 - [x] [Reorder list](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/LinkedLists/Medium/ReorderList/Solution.java)
