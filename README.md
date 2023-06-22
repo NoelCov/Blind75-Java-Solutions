@@ -84,10 +84,10 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Trees
 
 #### Easy
-- [x] [Invert binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/InvertBinaryTree/Solution.java)
-- [x] [Maximum depth of binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/MaximumDepthOfBinaryTree/Solution.java)
-- [x] [Same tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/SameTree/Solution.java)
-- [x] [Subtree of another tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/SubtreeOfAnotherTree/Solution.java)
+- [x] [Invert binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/Easy/InvertBinaryTree/Solution.java)
+- [x] [Maximum depth of binary tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/Easy/MaximumDepthOfBinaryTree/Solution.java)
+- [x] [Same tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/Easy/SameTree/Solution.java)
+- [x] [Subtree of another tree](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Trees/Easy/SubtreeOfAnotherTree/Solution.java)
 
 #### Medium
 - [ ] Lowest common ancestor of a binary search tree
