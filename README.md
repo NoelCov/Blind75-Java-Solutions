@@ -75,7 +75,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Reorder list](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/LinkedLists/Medium/ReorderList/Solution.java)
-- [ ] Remove Nth node from end of list
+- [x] Remove Nth node from end of list
 
 #### Hard
 - [ ] Merge K sorted lists

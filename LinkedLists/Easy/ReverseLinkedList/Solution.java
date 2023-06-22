@@ -1,3 +1,5 @@
+package LinkedLists.Easy.ReverseLinkedList;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
