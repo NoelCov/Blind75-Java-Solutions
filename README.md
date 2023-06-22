@@ -19,7 +19,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Arrays & Hashing
 
 #### Easy
-- [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/TwoSum/Solution.java)
+- [x] [Two Sum](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/TwoSum/Solution.java)
 - [x] [Valid Anagram](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ValidAnagram/Solution.java)
 - [x] [Contains Duplicate](https://github.com/NoelCov/blind-75-java-solutions/blob/main/Arrays/Easy/ContainsDuplicate/Solution.java)
 
@@ -43,7 +43,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Sliding Window
 
 #### Easy
-- [x] [Best time to buy and sell stock](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/BestTimeToBuyAndSellStock/Solution.java)
+- [x] [Best time to buy and sell stock](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/Easy/BestTimeToBuyAndSellStock/Solution.java)
 
 #### Medium
 - [x] [Longest substring without repeating characters](https://github.com/NoelCov/blind-75-java-solutions/blob/main/SlidingWindow/Medium/LongestSubstringWithoutRepeatingCharacters/Solution.java)
@@ -69,13 +69,13 @@ Here I will put some of the resources I'm using to practice and solve this probl
 ### Linked List
 
 #### Easy
-- [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/ReverseLinkedList/Solution.java)
-- [x] [Merge two sorted lists](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/MergeTwoSortedLinkedLists/Solution.java)
-- [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/LinkedListCycle/Solution.java)
+- [x] [Reverse linked list](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/ReverseLinkedList/Solution.java)
+- [x] [Merge two sorted lists](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/MergeTwoSortedLinkedLists/Solution.java)
+- [x] [Linked list cycle](https://github.com/NoelCov/blind-75-java-solutions/blob/main/LinkedLists/Easy/LinkedListCycle/Solution.java)
 
 #### Medium
 - [x] [Reorder list](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/LinkedLists/Medium/ReorderList/Solution.java)
-- [x] Remove Nth node from end of list
+- [x] [Remove Nth node from end of list](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/LinkedLists/Medium/RemoveNthNodeFromEndOfList/Solution.java)
 
 #### Hard
 - [ ] Merge K sorted lists
