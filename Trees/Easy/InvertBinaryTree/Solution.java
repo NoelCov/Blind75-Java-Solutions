@@ -1,3 +1,5 @@
+package Trees.Easy.InvertBinaryTree;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -20,8 +22,6 @@
 // Space Complexity O(V + E);
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        // Time O(V + E)
-        // Space O(V + E)
         if (root == null) {
             return root;
         }
