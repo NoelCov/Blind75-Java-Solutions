@@ -93,7 +93,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [ ] Lowest common ancestor of a binary search tree
 - [x] [Binary tree level order traversal](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Trees/Medium/BinaryTreeLevelOrderTraversal/Solution.java)
 - [ ] Validate binary search tree
-- [x] Kth smallest element in a BST (Binary Search Tree)
+- [x] [Kth smallest element in a BST (Binary Search Tree)](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Trees/Medium/KthSmallestElementInABST/Solution.java)
 - [ ] Construct binary tree from Preorder and Inorder traversal
 ---
 
