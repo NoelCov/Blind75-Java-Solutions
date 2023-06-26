@@ -97,6 +97,22 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Construct binary tree from Preorder and Inorder traversal](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Trees/Medium/ConstructBinaryTreeFromPreorderAndInorderTraversal/Solution.java)
 ---
 
+### Tries
+
+#### Medium
+- [x] Implement Trie (Prefix Tree)
+- [ ] Design Add and Search Words Data Structure
+
+#### Hard
+- [ ] Word Search II
+---
+
+### Backtracking
+
+#### Medium
+- [ ] Combination Sum
+- [ ] Word Search
+
 ### 1-D Dynamic Programming 
 
 #### Easy
