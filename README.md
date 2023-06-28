@@ -101,7 +101,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Implement Trie (Prefix Tree)](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Tries/Medium/ImplementTriePrefixTree/Solution.java)
-- [ ] Design Add and Search Words Data Structure
+- [x] Design Add and Search Words Data Structure
 
 #### Hard
 - [ ] Word Search II
