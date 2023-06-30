@@ -111,7 +111,7 @@ Here I will put some of the resources I'm using to practice and solve this probl
 
 #### Medium
 - [x] [Combination Sum](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Backtracking/Medium/CombinationSum/Solution.java)
-- [ ] Word Search
+- [x] [Word Search](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Backtracking/Medium/WordSearch/Solution.java)
 ---
 
 ### 1-D Dynamic Programming 
