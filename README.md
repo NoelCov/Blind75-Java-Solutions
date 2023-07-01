@@ -114,6 +114,12 @@ Here I will put some of the resources I'm using to practice and solve this probl
 - [x] [Word Search](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Backtracking/Medium/WordSearch/Solution.java)
 ---
 
+### Graphs
+
+#### Medium
+- [x] [NumberOfIslands](https://github.com/NoelCov/Blind75-Java-Solutions/blob/main/Graphs/NumberOfIslands/Solution.java)
+---
+
 ### 1-D Dynamic Programming 
 
 #### Easy
